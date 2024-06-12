@@ -1,0 +1,33 @@
+.navbar.bg-body-tertiary {
+    background-color: #343a40;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar.bg-body-tertiary .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar.bg-body-tertiary .navbar-toggler-icon {
+    color: #ffffff;
+}
+
+.navbar.bg-body-tertiary .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar.bg-body-tertiary .navbar-nav .nav-link:hover {
+    color: #cccccc;
+}
+
+.offcanvas-header {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.offcanvas-body .navbar-nav .nav-link {
+    color: #000000;
+}
+
+.offcanvas-body .navbar-nav .nav-link:hover {
+    color: #333333;
+}
